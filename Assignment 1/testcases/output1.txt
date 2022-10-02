@@ -1,0 +1,17 @@
+Assignment Statements: 
+guesses_made=0
+name=input(Hello! What is your name?
+)
+number=random(1,20)
+guess=4
+
+
+Branch Conditions: 
+guess<number
+guess>number
+guess==number
+guess==number
+
+
+Loop Conditions: 
+guesses_made<6

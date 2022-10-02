@@ -1,0 +1,20 @@
+Assignment Statements: 
+names=['Kelly','Jessa','Emma']
+count=0
+count=count+1
+i=2
+j=2
+j=j+1
+i=i+1
+
+
+Branch Conditions: 
+None
+j>i/j
+
+
+Loop Conditions: 
+name in names
+count<5
+i<100
+j<=i/j

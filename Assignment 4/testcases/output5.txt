@@ -1,0 +1,5 @@
+Coverage : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16],
+Corpus:
+Input 0 : {':vara': 20, ':varb': 30}
+Input 1 : {':vara': 157, ':varb': 30}
+Input 2 : {':vara': 20, ':varb': 28}
